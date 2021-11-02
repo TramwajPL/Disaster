@@ -1,0 +1,23 @@
+
+newmtl Standard713F25
+Kd  0.44313724 0.24705882 0.14509802
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+map_Kd Pasture_ground_Albedo.png
+
+
+
+newmtl Flat00BF00
+Kd  00 0.7490196 00
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 0
+map_Kd Pasture_ground_Albedo.png
+
+
+
